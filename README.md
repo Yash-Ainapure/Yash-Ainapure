@@ -1,5 +1,5 @@
 # 💫 About Me:
-A second year computer science student with keen interest in Android & Web development
+A third year computer science student with keen interest in Android & Web development
 
 
 ## 🌐 Socials:
