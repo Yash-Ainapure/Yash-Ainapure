@@ -1,6 +1,10 @@
 # 💫 About Me:
-A third year computer science student with keen interest in Android & Web development
 
+Ohio!!            
+I am Yash Ainapure from Kolhapur,Maharashtra,           
+currently studying in 3rd year in Dr.D.Y.Patil College of Engineering and Technology              
+I am interested specially into Web and Android Development.           
+Byee, will see you later
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yash-ainapure-3aa050270) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Yash_Ainapure) 
