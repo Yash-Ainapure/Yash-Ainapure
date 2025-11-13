@@ -2,7 +2,7 @@
 
 Ohio!!            
 I am Yash Ainapure from Kolhapur,Maharashtra,           
-currently studying in 3rd year in Dr.D.Y.Patil College of Engineering and Technology              
+currently studying in last year in Dr.D.Y.Patil College of Engineering and Technology              
 I am interested specially into Web and Android Development.           
 Byee, will see you later.
 
